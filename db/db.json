@@ -1,19 +1,75 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-        },
-        {
-            "id": 2,
-            "title": "qui est esse",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-        },
-        {
-            "id": 3,
-            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-        }
-    ]
+  "users": [
+    {
+      "id": "2e9fe94d-7752-41b9-b0cb-8baba2244bc0",
+      "name": "Kristie Feest Jr.",
+      "balance": 168.18,
+      "isAgent": false,
+      "photo_url": "https://picsum.photos/seed/kWCuNQD68/640/480"
+    },
+    {
+      "id": "45b57b2f-6cce-4688-a7ff-06dde82df29d",
+      "name": "Lillian Herman",
+      "balance": 281.58,
+      "isAgent": true,
+      "photo_url": "https://loremflickr.com/640/480?lock=2695990773547008"
+    },
+    {
+      "id": "c4d8a976-f9a0-48ed-ad31-5328051026de",
+      "name": "Lewis Hilpert",
+      "balance": 212.3,
+      "isAgent": false,
+      "photo_url": "https://loremflickr.com/640/480?lock=2157764774199296"
+    },
+    {
+      "id": "66adbbaa-caa4-4832-9c5d-fe18985c56ab",
+      "name": "Lee Schuster",
+      "balance": 160.24,
+      "isAgent": true,
+      "photo_url": "https://picsum.photos/seed/WuYGcQDq/640/480"
+    },
+    {
+      "id": "8e527589-f96a-4d8e-a22b-1cfa9f91316a",
+      "name": "Jane Hamill",
+      "balance": 367.49,
+      "isAgent": true,
+      "photo_url": "https://loremflickr.com/640/480?lock=3152634621984768"
+    },
+    {
+      "id": "12bcca71-6899-4c77-8367-8f1bc1ad57d2",
+      "name": "Alton Mante",
+      "balance": 441.53,
+      "isAgent": true,
+      "photo_url": "https://picsum.photos/seed/IZdeY/640/480"
+    },
+    {
+      "id": "9cc7c15f-e16c-4006-bae7-d78a0fbe5d20",
+      "name": "Holly Kozey",
+      "balance": 255.55,
+      "isAgent": true,
+      "photo_url": "https://picsum.photos/seed/LMlh7/640/480"
+    },
+    {
+      "id": "4107ba34-00ed-4248-a38f-24208de065f4",
+      "name": "Mr. Tom Bogisich",
+      "balance": 457.42,
+      "isAgent": true,
+      "photo_url": "https://picsum.photos/seed/28b9iZpkwW/640/480"
+    },
+    {
+      "id": "644d5858-8b74-4223-87b1-48e67c2e6d19",
+      "name": "Nellie Gleason",
+      "balance": 161.23,
+      "isAgent": false,
+      "photo_url": "https://picsum.photos/seed/r3Km5dBm7/640/480"
+    },
+    {
+      "id": "00dec4b4-3d54-454b-9377-e17d815c36f3",
+      "name": "Howard Hyatt",
+      "balance": 424.62,
+      "isAgent": true,
+      "photo_url": "https://picsum.photos/seed/bJidMICjK/640/480"
+    }
+  ],
+  "calls": []
 }
